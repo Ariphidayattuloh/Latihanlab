@@ -1,1 +1,5 @@
 # Latihanlab
+NAMA : ARIP HIDAYTTULOH
+NIM : 312010244
+KELAS : TI.20 B.1
+DOSEN  : Agung Nugroho,S.Kom, M.Kom
